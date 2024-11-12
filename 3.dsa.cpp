@@ -1,8 +1,8 @@
 
 Dsa 3 circular queue
-Name:- Jyoti Rajesh Makwan 
+Name:- Mayur GAWATRE
 Sub :- dsa 
-Name:- Jyoti Rajesh Makwan
+
 Assingment no :-3
 
 #include <iostream>
